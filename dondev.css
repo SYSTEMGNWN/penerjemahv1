@@ -75,8 +75,14 @@ button {
     background-color: #268C08
 }
 #versi2 {
-    background-color: #A4A70C
+    background-color: #A4A70C;
 }
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  }
 
 #hapus {
     background-color: #bf212f
