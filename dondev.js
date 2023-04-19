@@ -19,6 +19,11 @@ function terjemahanKata() {
     t.value = s
 }
 
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+
 function salinTeks() {
     let e = document.getElementById("hasil"),
         t = document.getElementById("hasil").value;
