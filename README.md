@@ -1,4 +1,4 @@
-# penerjemahv1
-Penerjemah Basa Walikan v1
+# 
+Penerjemah Basa Walikan Jogja v2
 
 link https://systemgnwn.github.io/penerjemahv1/
